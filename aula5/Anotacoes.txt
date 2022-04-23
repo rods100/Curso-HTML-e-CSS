@@ -1,0 +1,27 @@
+Na aula 5 aprendemos as 
+Diferencas entre as tags semanticas
+- strong
+- bold
+- italico
+- emphasys
+
+TAGS INLINE,PARA SEREM UTILIZADAS DENTRO DO PARAGRAFO
+tag <a> utilizada pra links, possui um atributo chamado target
+tag <img> utilizada para adicionar imagens
+tag <del> irá deixar o texto riscado
+tag <ins> irá deixar o texto sublinhado com a intenção de que o texto foi substituido pelo texto que está dentro da tag <del>
+tag <s> utilizada para riscar o texto parecido com o <del>, porem a tag <s> é uma tag fisica igual a tag <b>
+tag <small> para deixar o texto um pouco menor
+tag <sup> utilizada para fazer a pontialização, irá deixar o numero em cima do outro
+tag <sub> inverso da tag <sup>, o numero será escrito pequeno como H20
+tag <br> utilizada para quebra de linha
+tag <q> utilizada para citar alguma coisa no texto, deixa o texto entre aspas, pode citar um site com o atributo cite="" >> <q cite="site"> "texto copiado de um site"</q>
+tag <span> é um container generico em linha para conteudo fraseado
+
+
+TAGS BLOCK, UTILIZADAS FORA DO PARAGRAFO
+tag <blockquote> Citação do texto com a formatação do navegador, possui o atributo cite tb
+tag <hr> utilizada para criar uma linha horizontal, para separação de paragrafos
+tag <code> utilizada para identificar um código 
+tag <pre> utilizada para texto pre formatado 
+tag <div> é um container generico em bloco

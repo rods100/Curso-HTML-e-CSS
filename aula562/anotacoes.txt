@@ -1,0 +1,13 @@
+
+TAGS HTML
+
+-tag ol => listas ordenadas
+-tag ul => listas não ordenadas
+-tag li => item de listas
+-tag dl => lista de descrição
+-tag dt => termo a ser descrito na lista
+-tag dd => descrição do item da lista
+
+- nav se comporta com display block
+
+- classe hover no CSS significa quando passar o mouse em cima

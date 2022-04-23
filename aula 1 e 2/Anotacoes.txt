@@ -1,0 +1,7 @@
+Nas aulas 1 e 2 aprendemos 
+
+- Como criar um arquivo html,
+- Criar conexão com o live server para vereficar as modificações em tempo real;
+- Aprendemos o porque da tag viewport, criada pela Apple para adequações de sites em tela de celular
+- Aprendemos sobre as tags <br>, <p>, <h1>, <span>
+- Aprendemos como validar um arquivo html atraves do site w3 validate html.
